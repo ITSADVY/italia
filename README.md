@@ -1,2 +1,1 @@
-# italia
 platillo italiano
